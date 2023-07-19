@@ -30,6 +30,6 @@ New project:
    `cd path`
    `code .`
 2. Vs code
-   [Ctrl] + [`]
-   [Ctrl] + [Alt] + [n]
-   => [Enter] this will install node + add my 'history/' to .gitignore
+   * [Ctrl] + [`], 
+   * [Ctrl] + [Alt] + [n], 
+   * => [Enter] this will install node + add my 'history/' to .gitignore
