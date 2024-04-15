@@ -78,8 +78,11 @@ Web Dev
               npm init --y
         npm cli     - add/remove/upd dependencies
       Git
+        // check .gitignore first!
         git init → git add . → git commit -m "first"
         git remote add origin https\github.gg    - add github origin
+        git checkout -b "feat/ranger"
+        git push origin feat/ranger
       Apsp Script Autoclomplete
         npm install --save @types/google-apps-script
       Clasp
