@@ -77,6 +77,8 @@ Web Dev
               rm package.json
               npm init --y
         npm cli     - add/remove/upd dependencies
+      Git
+        git init → git add . → git commit -m "first"
         git remote add origin https\github.gg    - add github origin
       Apsp Script Autoclomplete
         npm install --save @types/google-apps-script
